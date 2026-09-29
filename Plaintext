@@ -1,0 +1,20 @@
+card-game-simulator/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── STATEMENT.md
+├── RESULTS.md
+├── requirements.txt
+├── main.py
+├── src/
+│   ├── __init__.py
+│   ├── card.py
+│   ├── deck.py
+│   ├── player.py
+│   └── game.py
+└── tests/
+    ├── __init__.py
+    ├── test_card.py
+    ├── test_deck.py
+    ├── test_player.py
+    └── test_game.py
